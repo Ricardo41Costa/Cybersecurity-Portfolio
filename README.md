@@ -1,2 +1,2 @@
-# Cybersecurity-Portfolio
-portfolio for my cybersecurity projects
+# Cybersecurity Portfolio
+## Professional Statements
