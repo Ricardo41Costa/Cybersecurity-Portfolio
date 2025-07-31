@@ -4,16 +4,19 @@ Through my career as a software developer i was able to expand my skills in deve
 
 ## Portfolio
 The reason for developing this cybersecurity portfolio was to showcase the various projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This course has provided insights into:
-- Programming for cybersecurity tasks
-- Frameworks and controls that inform security operations
-- SIEM tools for cybersecurity
-- Detecting and responding to incidents using an intrusion detection system
-- Performing packet capture and analysis
-Additionally, it has paved the way for me to pursue one of the entry-level following roles:
 
-Cybersecurity Analyst
-Security Analyst
-SOC Analyst
-Information Security Analyst
-IT Security Analyst
-Cyber Defense Analyst
+- SIEM tools for cybersecurity
+- Frameworks and controls that inform security operations
+- Performing packet capture and analysis
+- Detecting and responding to incidents using an intrusion detection system
+- Programming for cybersecurity tasks
+
+With this, i can pursue one of the entry-level following roles:
+
+- Cybersecurity Analyst
+- Security Analyst
+- SOC Analyst
+- Information Security Analyst
+- Cyber Defense Analyst
+
+
