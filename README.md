@@ -11,7 +11,7 @@ The reason for developing this cybersecurity portfolio was to showcase the vario
 - Detecting and responding to incidents using an intrusion detection system
 - Programming for cybersecurity tasks
 
-With this, i can pursue one of the entry-level following roles:
+With this, i can pursue one of the following entry-level roles:
 
 - Cybersecurity Analyst
 - Security Analyst
@@ -19,4 +19,19 @@ With this, i can pursue one of the entry-level following roles:
 - Information Security Analyst
 - Cyber Defense Analyst
 
+### Tools:
 
+- Google Workspace (Drive, Docs, Sheets, Slides)
+- Markdown Language
+- Tcpdump
+- Wireshark
+- Linux OS
+- SQL
+- Chronicle
+- Splunk
+- Suricata
+- Python
+
+### Projects:
+
+- [Conducting a Security Audit](https://link-url-here.org)
